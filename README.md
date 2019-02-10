@@ -6,4 +6,4 @@
 + __Emojify__ - *3rd Party Libraries : Butterknife v8.8.1, Timber v4.7.0*
 + __MyGarden__ - *Widgets*
 + __TeaTime__ - *Espresso Testing Framework*
-+ __ToDoList__ - *Android Architecture Components*
++ __ToDoList__ - *Android Architecture Components : Room, LiveData, ViewModel*
