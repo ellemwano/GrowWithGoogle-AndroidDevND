@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:18:1-41:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f91580e5a166acd0ee82021290e9b4c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cacc84f63f792888b68724a2bb013bd0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b82fe83b746b8e7a4f5928376147e83a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a4001793f3f7b115cda2ef4f7a5e4dd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-appindexing:16.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-16.0.1.aar\a85f83a072d5f01b5c5dc0ffa1f0f02e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6d9542cc911bb78c3d6b15fbd57de1aa\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\dd224f3cfabafc014f19e7bf47b7b6f0\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\356a035b90d693277b1d6e658a69e249\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c5d8ddf204d74c001bc3111ee59e4a1a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\32dace0e44d99c7764120be004596b39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\62e77df39d510ee2c571795b38ee548d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2422c0c70987dd897bade548c72335f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b48c873a0d69e9d8b415da46e5b82161\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3b7703a64b4fdf6019114f7d0fd0434e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ea0478ddf8c5192d9086b07dd458b9fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dd3e77b746f4e3478c3d943500b4c0c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7bd0337095657b8552628d355e97d9a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.2.aar\e20d0f35cc2a2ed13eee7620f63ab4a3\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7b98a9480ef500d6d39c6ecb46616830\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\77e8189053d172da0c069cfd92b199bf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\90645c58b3c2449ea218a00a2be01070\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b50ce7aa6abe51bfe1eb8a9d04ed620\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:19:5-42
+		INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:18:1-41:12
+		INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:18:1-41:12
+		INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:20:5-39:19
+MERGED from [com.google.firebase:firebase-appindexing:16.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-16.0.1.aar\a85f83a072d5f01b5c5dc0ffa1f0f02e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:16.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-16.0.1.aar\a85f83a072d5f01b5c5dc0ffa1f0f02e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6d9542cc911bb78c3d6b15fbd57de1aa\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6d9542cc911bb78c3d6b15fbd57de1aa\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\dd224f3cfabafc014f19e7bf47b7b6f0\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\dd224f3cfabafc014f19e7bf47b7b6f0\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\356a035b90d693277b1d6e658a69e249\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\356a035b90d693277b1d6e658a69e249\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c5d8ddf204d74c001bc3111ee59e4a1a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c5d8ddf204d74c001bc3111ee59e4a1a\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.teatime.MenuActivity
+ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:26:9-33:20
+	android:screenOrientation
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:27:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.android.teatime.OrderActivity
+ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:34:9-50
+	android:name
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:34:19-48
+activity#com.example.android.teatime.OrderSummaryActivity
+ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:35:9-57
+	android:name
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:35:19-55
+meta-data#com.google.android.gms.version
+ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:36:9-38:68
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c5d8ddf204d74c001bc3111ee59e4a1a\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c5d8ddf204d74c001bc3111ee59e4a1a\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:38:13-66
+	android:name
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml:37:13-58
+uses-sdk
+INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f91580e5a166acd0ee82021290e9b4c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f91580e5a166acd0ee82021290e9b4c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cacc84f63f792888b68724a2bb013bd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cacc84f63f792888b68724a2bb013bd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b82fe83b746b8e7a4f5928376147e83a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b82fe83b746b8e7a4f5928376147e83a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a4001793f3f7b115cda2ef4f7a5e4dd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a4001793f3f7b115cda2ef4f7a5e4dd4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:16.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-16.0.1.aar\a85f83a072d5f01b5c5dc0ffa1f0f02e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:16.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-16.0.1.aar\a85f83a072d5f01b5c5dc0ffa1f0f02e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6d9542cc911bb78c3d6b15fbd57de1aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6d9542cc911bb78c3d6b15fbd57de1aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\dd224f3cfabafc014f19e7bf47b7b6f0\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\dd224f3cfabafc014f19e7bf47b7b6f0\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\356a035b90d693277b1d6e658a69e249\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\356a035b90d693277b1d6e658a69e249\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c5d8ddf204d74c001bc3111ee59e4a1a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c5d8ddf204d74c001bc3111ee59e4a1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\32dace0e44d99c7764120be004596b39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\32dace0e44d99c7764120be004596b39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\62e77df39d510ee2c571795b38ee548d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\62e77df39d510ee2c571795b38ee548d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2422c0c70987dd897bade548c72335f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2422c0c70987dd897bade548c72335f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b48c873a0d69e9d8b415da46e5b82161\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b48c873a0d69e9d8b415da46e5b82161\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3b7703a64b4fdf6019114f7d0fd0434e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3b7703a64b4fdf6019114f7d0fd0434e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ea0478ddf8c5192d9086b07dd458b9fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ea0478ddf8c5192d9086b07dd458b9fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dd3e77b746f4e3478c3d943500b4c0c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dd3e77b746f4e3478c3d943500b4c0c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7bd0337095657b8552628d355e97d9a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7bd0337095657b8552628d355e97d9a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.2.aar\e20d0f35cc2a2ed13eee7620f63ab4a3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.2.aar\e20d0f35cc2a2ed13eee7620f63ab4a3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7b98a9480ef500d6d39c6ecb46616830\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7b98a9480ef500d6d39c6ecb46616830\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\77e8189053d172da0c069cfd92b199bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\77e8189053d172da0c069cfd92b199bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\90645c58b3c2449ea218a00a2be01070\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\90645c58b3c2449ea218a00a2be01070\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b50ce7aa6abe51bfe1eb8a9d04ed620\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b50ce7aa6abe51bfe1eb8a9d04ed620\AndroidManifest.xml:20:5-44
+INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+		ADDED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IT\Udacity\androidND\studyApps\AdvancedAndroid_TeaTime\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6d9542cc911bb78c3d6b15fbd57de1aa\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6d9542cc911bb78c3d6b15fbd57de1aa\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6d9542cc911bb78c3d6b15fbd57de1aa\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6d9542cc911bb78c3d6b15fbd57de1aa\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\dd224f3cfabafc014f19e7bf47b7b6f0\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\dd224f3cfabafc014f19e7bf47b7b6f0\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\dd224f3cfabafc014f19e7bf47b7b6f0\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\dd224f3cfabafc014f19e7bf47b7b6f0\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\ElleMwa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\dd224f3cfabafc014f19e7bf47b7b6f0\AndroidManifest.xml:10:13-77
